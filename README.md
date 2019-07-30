@@ -1,3 +1,3 @@
 # PHP Library RSS
 
-RSS Parsing Library
+RSS and Atom feed parsing library
