@@ -1,0 +1,21 @@
+{
+    "name": "sinevia/php-library-rss",
+    "description": "PHP Library RSS",
+    "type": "library",
+    "keywords": ["rss", "atom", "library", "php", "sinevia"],    
+    "homepage": "http://github.com/sinevia/php-library-rss",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Milan Lesichkov",
+            "email": "lesichkovm@gmail.com",
+            "homepage": "http://lesichkov.co.uk",
+            "role": "Lead Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/Rss.php"
+        ]
+    }
+}
